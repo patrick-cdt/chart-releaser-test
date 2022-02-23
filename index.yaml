@@ -3,6 +3,16 @@ entries:
   chart1:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-02-23T14:35:11.064264027Z"
+    description: A Helm chart for Kubernetes
+    digest: 4e3a8b58e265e8dc948b27826de6fc6a098cffeda65aba8246eccba0bd5f8260
+    name: chart1
+    type: application
+    urls:
+    - https://github.com/patrick-cdt/chart-releaser-test/releases/download/chart1-1.0.1/chart1-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-02-23T14:17:57.159510761Z"
     description: A Helm chart for Kubernetes
     digest: f2079a22fe43c53c616882c4d67f15c05e866aa70837f705c48913440bfb14b5
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://github.com/patrick-cdt/chart-releaser-test/releases/download/chart2-2.1.0/chart2-2.1.0.tgz
     version: 2.1.0
-generated: "2022-02-23T14:18:00.376947575Z"
+generated: "2022-02-23T14:35:11.064287026Z"
